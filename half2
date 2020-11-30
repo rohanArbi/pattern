@@ -29,7 +29,7 @@ printf(“*”);
 k=k+1;
 
 }
-
+  
 }
 
 printf(“n”);
