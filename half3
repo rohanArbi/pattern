@@ -1,0 +1,16 @@
+#include<iostream>
+#include<cstdio>
+using namespace std;
+int main()
+{
+     int row,column;
+     for(row=1;row<=10;++row)
+       {
+       for(column=1;column<=row;++column)
+       putchar("+");
+       for(column=1;column,=row;++column)
+       putchar("*");
+       cout<<""<<endl;
+       }
+return 0;
+}
