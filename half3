@@ -7,9 +7,9 @@ int main()
      for(row=1;row<=10;++row)
        {
        for(column=1;column<=row;++column)
-       putchar("+");
-       for(column=1;column,=row;++column)
-       putchar("*");
+       putchar('+');
+       for(column=1;column<=row;++column)
+       putchar('*');
        cout<<""<<endl;
        }
 return 0;
